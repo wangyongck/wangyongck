@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>我的名片</title>
+    <style>
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div style="background-color: #f1f1f1; text-align: center; padding: 40px">
+      <img
+        src="https://th.bing.com/th/id/OIP.4mlGDATyaNE7Y1JVphVXJgHaE8?rs=1&pid=ImgDetMain"
+        alt="weixin tupian"
+        width="80"
+        height="80"
+      />
+    </div>
+    <div
+      style="
+        max-width: 700px;
+        margin: 30px auto;
+        padding: 15px;
+        line-height: 1.7;
+      "
+    ><h2 style="color: blue;">威海云舟供应链有限公司</h2>
+      <h2>王勇</h2>
+      <h3>副总经理</h3>
+      <p><strong>国内</strong>: 山东省威海市文登区威海综合保税区(南区)广贸路1号</p>
+      <p><strong>韩国</strong>: 韩国仁川西区梧柳洞1549-3</p>
+    </div>
+    <div
+      style="
+        background-color: #f1f1f1;
+        text-align: center;
+        padding: 40px;
+        font-size: 12px;
+      "
+    >
+      <p>联系我</p>
+      <a href="tel+8615966086035">+86 159 6608 6035</a><br>
+      <a href="tel+820226881026">+82 02 2688 1026</a><br>
+      <a href="mailto:wangyong@wfhtts.com">wangyong@wfhtts.com</a>
+    </div>
+  </body>
+</html>
